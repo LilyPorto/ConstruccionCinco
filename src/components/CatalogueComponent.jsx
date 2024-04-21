@@ -1,5 +1,5 @@
 import catalogue from "../data/catalogue"
-import { View, FlatList, Text } from "react-native"
+import { FlatList, Text } from "react-native"
 import CatalogueItemComponent from "./CatologueItemComponent"
 
 const CatalogueComponent = () => {
